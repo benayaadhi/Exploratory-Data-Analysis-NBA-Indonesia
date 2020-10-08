@@ -29,3 +29,5 @@ Refrences :
 - https://www.basketball-reference.com/
 - https://www.kaggle.com/
 - www.stackoverflow.com
+
+#### Link in English : https://jovian.ml/benayaadhii/basketball-players-stats

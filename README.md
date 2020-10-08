@@ -30,4 +30,4 @@ Refrences :
 - https://www.kaggle.com/
 - www.stackoverflow.com
 
-#### Link in English : https://jovian.ml/benayaadhii/basketball-players-stats
+#### [Click here for English Version ](https://jovian.ml/benayaadhii/basketball-players-stats)
